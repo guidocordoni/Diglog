@@ -1,0 +1,15 @@
+{
+  "short_name": "DigLog",
+  "name": "DigLog Artifact Search",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9363/9363973.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
